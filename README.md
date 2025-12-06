@@ -54,7 +54,9 @@ I built a Python loop that acts as the "Server." It monitors two live signals:
 
 | The Dashboard | The Elasticity Analysis |
 |:---:|:---:|
-| *(Place your Streamlit Screenshot here)* | *(Place your Regression Plot Screenshot here)* |
+| *<img width="270" height="368" alt="Screenshot 2025-12-06 204343" src="https://github.com/user-attachments/assets/edef480b-8a11-4d88-a1cb-53506eb627f9" />
+* | *<img width="389" height="256" alt="image" src="https://github.com/user-attachments/assets/445bcb02-e49b-4a2e-ba66-c414fb25c6d7" />
+* |
 | *Real-time revenue tracking* | *Calculating the demand curve* |
 
 ---
